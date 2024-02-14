@@ -1,0 +1,9 @@
+#Terraform
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Key
+*.pem
