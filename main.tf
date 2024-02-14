@@ -27,7 +27,7 @@ resource "aws_instance" "app_server" {
 
 
   tags = {
-    Name = "TerraformIaCNew"
+    Name = "TerraformAnsiblePython"
     Client = "Teste"
   }
 }
